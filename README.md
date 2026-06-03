@@ -1,6 +1,6 @@
 # My Personal Website
 
-My personal portfolio website - I'm Yousuf Alshaaili, an AI & Computer Science student at Sultan Qaboos University.
+My personal portfolio website: I'm Yousuf Alshaaili, an AI & Computer Science student at Sultan Qaboos University.
 
 ## Tech
 - HTML, CSS (with custom animations)
